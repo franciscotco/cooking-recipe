@@ -17,11 +17,11 @@
   ],
   "theme_color": "#000000",
   "background_color": "#000000",
-  "app.js": "auto/app.0b9ba909dc92cd6f270a.js",
+  "app.js": "auto/app.3289b1dc862d427aa526.js",
   "162.js": "auto/162.8e459ed4158ce030900b.js",
   "407.js": "auto/407.0d646e26e0651bf67bfd.js",
-  "workbox-1f84e78b.js": "auto/workbox-1f84e78b.js",
-  "favicon.png": "auto/favicon.png",
+  "workbox-d6cf95b0.js": "auto/workbox-d6cf95b0.js",
   "service-worker.js": "auto/service-worker.js",
+  "favicon.png": "auto/favicon.png",
   "index.html": "auto/index.html"
 }
