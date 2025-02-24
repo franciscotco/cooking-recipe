@@ -1,0 +1,27 @@
+{
+  "short_name": "Dépenses",
+  "name": "Gestion des dépenses",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "app.js": "auto/app.477fc455e8f21fb91f01.js",
+  "162.js": "auto/162.8e459ed4158ce030900b.js",
+  "407.js": "auto/407.3aae42fc1282eeb003b8.js",
+  "workbox-1f84e78b.js": "auto/workbox-1f84e78b.js",
+  "favicon.png": "auto/favicon.png",
+  "service-worker.js": "auto/service-worker.js",
+  "index.html": "auto/index.html"
+}
