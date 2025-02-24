@@ -1,8 +1,9 @@
 import React, { type ReactElement, useCallback, ChangeEvent } from "react";
 
 import FormattedMessage from "@src/components/FormattedMessage";
-import Option from "@src/components/controls/Option";
-import Select from "@src/components/controls/Select";
+import Option from "@src/components/controls/option";
+import Select from "@src/components/controls/select";
+import { DEFAULT_LANGUAGE } from "@src/constants/default-language";
 import { SUPPORTED_LANGUAGES, isSupportedLanguage } from "@src/intl/messages";
 import { switchLanguage } from "@src/redux/languages";
 import { useAppDispatch, useAppSelector } from "@src/redux/redux.hooks";
@@ -19,7 +20,7 @@ const SelectLanguages = (): ReactElement => {
       if (isSupportedLanguage(value)) {
         dispatch(switchLanguage(value));
       } else {
-        dispatch(switchLanguage("en"));
+        dispatch(switchLanguage(DEFAULT_LANGUAGE));
       }
     },
     [dispatch]

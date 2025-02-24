@@ -1,4 +1,4 @@
-import React, { type ReactElement, type PropsWithChildren } from "react";
+import React, { type ReactElement, type PropsWithChildren, memo } from "react";
 
 import { Provider } from "react-redux";
 
@@ -8,4 +8,4 @@ const ReduxProvider = ({ children }: PropsWithChildren<unknown>): ReactElement =
   <Provider store={store}>{children}</Provider>
 );
 
-export default ReduxProvider;
+export default memo(ReduxProvider);

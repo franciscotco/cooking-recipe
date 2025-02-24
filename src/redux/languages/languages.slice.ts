@@ -1,5 +1,6 @@
 import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
 
+import { DEFAULT_LANGUAGE } from "@src/constants/default-language";
 import { type LanguageCode } from "@src/intl";
 
 export interface LanguagesState {
@@ -7,7 +8,7 @@ export interface LanguagesState {
 }
 
 const initialState: LanguagesState = {
-  code: "en"
+  code: DEFAULT_LANGUAGE
 };
 
 const slice = createSlice({

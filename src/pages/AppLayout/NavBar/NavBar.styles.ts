@@ -10,6 +10,7 @@ export const Header = styled.header`
   width: 100%;
   height: 8rem;
   box-sizing: border-box;
+  z-index: 1;
 
   display: flex;
   align-items: center;

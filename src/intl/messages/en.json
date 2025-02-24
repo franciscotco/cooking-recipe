@@ -3,5 +3,6 @@
   "NAVBAR.SELECT.LANGUAGES.fr": "Français",
   "ROUTES.HOME.DESC": "Description",
   "ROUTES.HOME.NAME": "Home",
-  "ROUTES.HOME.TITLE": "Home"
+  "ROUTES.HOME.TITLE": "Home",
+  "ROUTES.RECIPIES.TITLE": "Recipies"
 }
