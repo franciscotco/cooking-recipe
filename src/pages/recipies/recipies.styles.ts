@@ -2,7 +2,11 @@ import styled from "styled-components";
 
 export const Recipies = styled.section`
   display: flex;
-  flex-direction: row;
+
+  flex-direction: column;
+  @media (min-width: 1250px) {
+    flex-direction: row;
+  }
 `;
 
 export const RecipiesList = styled.ul`
