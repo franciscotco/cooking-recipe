@@ -1,4 +1,4 @@
-export const CEREAL_TAG = ["riz", "légumineuse", "blé", "millet", "quinoa", "orge"] as const;
+export const CEREAL_TAG = ["riz", "légumineuse", "blé", "millet", "quinoa", "orge", "épeautre"] as const;
 export type Cereal = (typeof CEREAL_TAG)[number];
 export const isCereal = (cereal: string): cereal is Cereal => CEREAL_TAG.some((cerealTag) => cerealTag === cereal);
 

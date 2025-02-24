@@ -1,3 +1,4 @@
+import CircularDependencyPlugin from "circular-dependency-plugin";
 import ESLintPlugin from "eslint-webpack-plugin";
 import { DefinePlugin } from "webpack";
 import "webpack-dev-server";
@@ -20,6 +21,13 @@ const config = merge(common, {
     historyApiFallback: true
   },
   plugins: [
+    new CircularDependencyPlugin({
+      exclude: /node_modules/,
+      include: /src/,
+      failOnError: true,
+      allowAsyncCycles: false,
+      cwd: process.cwd()
+    }),
     new ESLintPlugin({
       extensions: ["ts", "tsx"],
       overrideConfigFile: `.eslintrc.json`,
@@ -29,7 +37,7 @@ const config = merge(common, {
     }),
     new DefinePlugin({
       webpackDevServer: true
-    }),
+    })
   ]
 });
 

@@ -1,6 +1,6 @@
-import CircularDependencyPlugin from "circular-dependency-plugin";
-import HtmlWebpackPlugin from "html-webpack-plugin";
 import { resolve } from "path";
+
+import HtmlWebpackPlugin from "html-webpack-plugin";
 import { type Configuration } from "webpack";
 
 const config: Configuration = {
@@ -31,16 +31,11 @@ const config: Configuration = {
     ]
   },
   plugins: [
-    new CircularDependencyPlugin({
-      exclude: /node_modules/,
-      include: /src/,
-      failOnError: true,
-      allowAsyncCycles: false,
-      cwd: process.cwd()
-    }),
     new HtmlWebpackPlugin({
       template: "./public/index.html",
-      chunks: ["app"]
+      chunks: ["app"],
+      favicon: "./public/favicon.png",
+      inject: true
     })
   ]
 };

@@ -1,13 +1,13 @@
 import React, { memo, type ReactElement } from "react";
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 import AppLayout from "@src/pages/AppLayout";
 import Error404 from "@src/pages/error-404";
 import Recipies from "@src/pages/recipies/recipies";
 
 const Router = (): ReactElement => (
-  <BrowserRouter>
+  <HashRouter>
     <Routes>
       <Route path="/" element={<AppLayout />}>
         <Route path="home" element={<Recipies />} />
@@ -15,7 +15,7 @@ const Router = (): ReactElement => (
         <Route path="*" element={<Error404 />} />
       </Route>
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 export default memo(Router);

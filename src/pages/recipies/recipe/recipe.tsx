@@ -53,8 +53,8 @@ function Recipe({ image, url, name, ingredient, preparation }: RecipeProps): Rea
       <Dialog ref={dialogIngredientsRef}>
         <div>{name}</div>
         <div>
-          {ingredient.split("\n").map((ingredient) => (
-            <React.Fragment key={ingredient}>
+          {ingredient.split("\n").map((ingredient, index) => (
+            <React.Fragment key={index}>
               {ingredient}
               <br />
             </React.Fragment>
@@ -65,8 +65,8 @@ function Recipe({ image, url, name, ingredient, preparation }: RecipeProps): Rea
       <Dialog ref={dialogPreparationRef}>
         <div>{name}</div>
         <div>
-          {preparation.split("\n").map((preparation) => (
-            <React.Fragment key={preparation}>
+          {preparation.split("\n").map((preparation, index) => (
+            <React.Fragment key={index}>
               {preparation}
               <br />
             </React.Fragment>

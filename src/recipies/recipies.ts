@@ -1320,6 +1320,743 @@ Récupérer à la louche du jus de cuisson des légumes pour parfumer votre semo
 Compléter avec l’eau que vous avez fait bouillir, jusqu’à arriver juste au-dessus de la semoule.
 Mélanger à la fourchette et laisser gonfler.
     `
+  },
+  {
+    name: "Curry Vegan Automnal",
+    url: "https://freethepickle.fr/2018/11/19/curry-vegan-automnal/",
+    image: "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2018/11/curry-automne-6-of-6-scaled.jpg?w=2560&ssl=1",
+    tag: {
+      cereal: ["riz"],
+      diet: ["végan"],
+      difficulty: ["intermediaire"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+    800 g de la courge de votre choix ici ½ citrouille verte
+    5 c-à-s d’huile végétale de votre choix
+    1 c-à-c de graines de moutarde
+    3 anis étoilées
+    5 clous de girofle
+    1 oignon
+    6 gousses d’ail
+    1 c-à-s de gingembre frais
+    ½ c-à-c + 1 c-à-c de cumin
+    ½ c-à-c + 1 c-à-c de curcuma
+    1 c-à-c cannelle
+    1 c-à-c de paprika
+    piment au goût
+    2 conserves de lait de coco 800ml environ
+    300 g pois chiches en conserve ou cuits au préalable
+    2 poignées d’épinards optionnel
+    1 poignée de noix de cajou crue grossièrement concassée puis grillée par vos soins
+    `,
+    preparation: `
+    Eplucher et couper la citrouille en cubes d’environ 1cmx1cm.
+    Les mettre dans un saladier et ajouter 3 c-à-s d’huile, ½ c-à-c de cumin, ½ c-à-c de curcuma, sel et poivre. Bien mélanger, puis les disposer sur une plaque (préalablement recouverte de papier cuisson).
+    Enfourner à 210 degrés pour 25 min.
+    Eplucher et mixer l’oignon, l’ail et le gingembre pour obtenir une sorte de pâte.
+    Dans une grande sauteuse ou une cocotte, verser les 2 c-à-s d’huile restante, et faire chauffer à feu moyen. Quand l’huile est chaude, ajouter les graines de moutarde, les anis étoilées et les clous de girofle.
+    Laisser chauffer 2-3 min (les graines de moutarde vont commencer à “poper”) puis ajouter la pâte oignon/gingembre/ail, ainsi que le reste des épices. Faire revenir 5 min en remuant souvent jusqu’à ce que le mélange soit bien odorant.
+    Ajouter le lait de coco, couvrir et laisser mijoter 10 min pour que toutes les saveurs se mélangent.
+    Ajouter les pois chiches et laisser mijoter encore 10 min. Ajuster l'assaisonnement. Éteindre le feu, ajouter les épinards et les cubes de citrouille rôtis.
+    Servir avec du riz et saupoudrer de noix de cajou concassée.
+    `
+  },
+  {
+    name: "Nuggets de chou-fleur au miel et à l’ail",
+    url: "https://freethepickle.fr/2024/03/28/nuggets-de-chou-fleur-au-miel-et-a-lail/",
+    image: "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2024/03/chou-fleur-miel-ail-2-of-7.jpg?w=800&ssl=1",
+    tag: {
+      cereal: ["riz"],
+      diet: ["végan"],
+      difficulty: ["intermediaire"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+Pour le chou-fleur
+
+    1 chou-fleur env 800g
+
+Pour la pâte
+
+    120 g de farine
+    40 g de fécule de maïs
+    1 càc de sel
+    1 càc de paprika fumé
+    1 càc d’ail semoule
+    190 ml de lait végétal ou animal
+
+Pour la sauce
+
+    3 gousses d’ail
+    1 càs d’huile de tournesol
+    6 càs de sauce soja tamari
+    1 càc de vinaigre de riz
+    1 càc d’huile de sésame
+    piment au goût
+    100 ml d’eau
+    2 càs de fécule de maïs
+    60 ml de miel
+    `,
+    preparation: `
+    Préchauffez le four à 220 degrés.
+    Cassez le chou fleurs en petites fleurettes (avec les mains).
+    Préparez une plaque de cuisson en y mettant un papier cuisson.
+
+Pour la pâte
+
+    Mélanger tous les ingrédients dans un bol. Y tremper tous les morceaux de chou-fleur et les répartir uniformément sur la plaque de cuisson.
+    Enfournez à mi-hauteur pour 20min.
+
+Pour la sauce
+
+    Pendant ce temps, faire chauffer lui dans un wok.
+    Y faire revenir 2 gousses d’ail pressées.
+    Quand elles commencent à dorer, ajouter la sauce soja, le vinaigre, l’huile de sésame et le piment.
+    Laisser cuire à petits bouillons 2-3min.
+    Dans le verre, mélanger l’eau froide et la fécule. Verser ce mélange dans le wok avec la gousse d’ail pressée restante. Mélanger bien, le mélange va rapidement épaissir.
+    Hors du feu, ajouter le miel et bien mélanger.
+    Ajouter le chou-fleur cuit et bien mélanger.
+    Servir avec du riz !
+    `
+  },
+  {
+    name: "Chow Mein",
+    url: "https://freethepickle.fr/2021/03/17/chow-mein-recette-facile-de-nouilles-sautees-aux-legumes/",
+    image: "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2021/03/chow-mein-vegetarien-1-of-3.jpg?w=800&ssl=1",
+    tag: {
+      cereal: ["riz"],
+      diet: ["végan"],
+      difficulty: ["intermediaire"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+Pour les nouilles
+
+    200 g de nouilles aux oeufs ou nouilles de riz
+    100 g de champignons shiitaké
+    1 carotte env 100g
+    100 g de chou blanc
+    100 g de pousses de soja
+    2 oignons nouveaux
+    4 gousses d’ail pressées
+    1 càs d’huile de tournesol
+    graines de sésame
+
+Pour la sauce
+
+    4 càs de sauce soja
+    2 càs d’huile de sésame
+    1 càs de sucre
+    4 càs de vinaigre de riz
+    piment au goût
+    `,
+    preparation: `
+Faites cuire les nouilles en suivant les indications du paquet. Puis, réservez dans de l’eau froide.
+Préparez les légumes :
+Nettoyez puis émincez les champignons en fines lamelles. Réservez.
+Épluchez puis coupez la carotte en julienne. Coupez le chou blanc en julienne. Réservez.
+Émincez les oignons nouveaux, tiges incluses. Réservez.
+Mélangez tous les ingrédients de la sauce dans un bol. Réservez.
+Faites chauffer un wok à feu moyen-fort et versez-y l’huile. Faites revenir l’ail pressé pendant 1 ou 2 min, sans le faire brûler. Ajoutez les champignons et faites-les revenir 3-4min en remuant constamment.
+Ajoutez la carotte et le chou blanc et wokez encore 2min.
+Ajoutez les nouilles, et la sauce en même temps et wokez encore 4-5min.
+Éteignez le feu et ajoutez les oignons et le sésame.
+    `
+  },
+  {
+    name: "Soupe crémeuse chou-fleur, pommes de terre, croûtons",
+    url: "https://menu-vegetarien.com/soupe-cremeuse-chou-fleur-pommes-terre-croutons/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2023/01/recette-vegetarienne-soupe-cremeuse-croutons.jpg",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végétarien"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    30 ml huile d'olive
+    1 oignon jaune, émincé
+    2 gousse d'ail, écrasées
+    1 càs romarin
+    1 l bouillon de légumes
+    500 g pomme de terre, pelées, coupées en moceaux
+    300 g chou-fleur, coupé en morceaux
+    180 g haricots blancs cuits, égouttés
+    40 g emmental râpé
+
+Croûtons
+
+    2 tranches pain de campagne, coupé en morceaux
+    15 ml huile d'olive
+    `,
+    preparation: `
+    Faire chauffer l'huile d'olive dans une grande casserole, ajouter l'oignon, cuire 2 minutes, ajouter l'ail, le romarin, saler, poivrer, cuire 1 minute.
+    Ajouter le bouillon de légumes, les pommes de terre, le chou-fleur, les haricots blancs, mélanger, porter à ébullition puis réduire à feu doux, cuire à couvert 20 minutes, ou jusqu'à ce que les légumes soient tendres.
+    Pendant ce temps, huiler les tranches de pain, les saler, puis les faire griller légèrement dans une poêle ou au toaster.
+    Réduire la soupe en purée avec un mixeur plongeant. Vérifier l'assaisonnement
+    Servir avec les croûtons et l'emmental râpé.
+    `
+  },
+  {
+    name: "Soupe de pois chiches",
+    url: "https://menu-vegetarien.com/soupe-pois-chiches",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2020/02/recette-vegetarienne-soupe-pois-chiches.jpg",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végan"],
+      difficulty: ["facile", "rapide"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    15 ml huile d’olive
+    1/4 oignon, haché
+    2 gousse d'ail, émincées
+    500 g pois chiches cuits, égouttés
+    1 càs curry
+    1 càc curcuma
+    75 cl bouillon de légumes
+    10 cl crème de coco
+    1/2 citron vert, (le jus)
+    20 g graines de courge
+    `,
+    preparation: `
+    Faire chauffer l'huile d'olive dans une casserole. Ajouter l'oignon, l'ail, cuire 2 minutes. Ajouter les pois chiches, les épices, saler, poivrer, cuire 5 minutes. Ajouter le bouillon de légumes, laisser mijoter 5 minutes.
+    Mixer jusqu'à obtenir une consistance onctueuse. Rajouter de l'eau si besoin.
+    Servir avec la crème de coco, un peu de jus de citron vert et des graines de courges.
+    `
+  },
+  {
+    name: "Soupe marocaine et pois chiches croustillants",
+    url: "https://menu-vegetarien.com/soupe-marocaine-pois-chiches-croustillants/",
+    image:
+      "https://menu-vegetarien.com/wp-content/uploads/2019/10/recette-vegetarienne-soupe-marocaine-pois-chiches.jpg",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    800 g carotte, coupées en morceaux
+    1 oignon jaune, émincé
+    2 gousse d'ail, écrasées
+    15 ml huile d'olive
+    1 càc cumin
+    1 càc curcuma
+    2 càc coriandre
+    1/2 càc paprika
+    1/4 càc cannelle
+    1,25 l bouillon de légumes
+    1 yaourt à la grecque
+
+Les pois chiches
+
+    150 g pois chiches cuits
+    1 càs garam masala
+    `,
+    preparation: `
+    Préchauffer le four à 200°C. Mettre les poi chiches dans un saladier, ajouter le garam masala, saler, poivron et bien mélanger. Les déposer sur la plaque du four recouverte de papier cuisson et cuire 20 minutes en mélangeant régulièrement.
+    Pendant ce temps, faire chauffer l'huile d'olive dans une casserole. Ajouter l'oignon, cuire 1 minute, ajouter l'ail, cuire 1 minute, ajouter les épices, cuire 3 minutes, ajouter les carottes et le bouillon, porter à ébullition, puis réduire le feu et laisser mijoter environ 30 minutes, jusqu'à ce que les carottes soient tendres. Puis les mixer. Rectifier l'assaisonnement.
+    Servir la soupe avec les pois chiches croustillants et un peu de yaourt à la grecque.
+    `
+  },
+  {
+    name: "Riz indien aux carottes",
+    url: "https://menu-vegetarien.com/riz-indien-carottes/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2018/02/riz-indien-carotte.jpg",
+    tag: {
+      cereal: ["riz"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+250g riz basmati
+4 cuillère à soupe d’huile
+1 oignon émincé
+20 noix de cajou
+60g de raisins secs
+1 càc graines de moutarde
+2 feuilles de laurier
+1/2 càc cannelle
+2 clous de girofle
+10 feuilles de curry
+4 carottes râpées
+2 càs de coriandre hachée
+    `,
+    preparation: `
+Faire cuire le riz le temps indiqué sur le paquet ou 12 minutes.
+Faire chauffer l’huile d’olive dans une poêle. Ajouter l’oignon. Les faire cuire 10 minutes ou jusqu’à ce qu’ils commencent à dorer. Assaisonner. Ajoutez les noix de cajou, les raisins secs et continuer pendant 5 minutes. Réserver.
+Dans la même poêle, mettre les graines de moutarde, le laurier, la cannelle, les clous de girofle, faire sauter jusqu’à ce que la moutarde crépite. Ajouter les feuilles de curry et faire sauter pendant 30 secondes. Ajouter les carottes râpées. Bien mélanger. Faire pendant environ 3 minutes à feu moyen. Ajouter le riz, assaisonner, mélanger.
+Ajouter enfin les oignons frits, les noix de cajou et les raisins secs et terminer par la coriandre.
+Vous pouvez le servir avec un yaourt ou de la raita.
+    `
+  },
+  {
+    name: "Soupe de chou fleur et pois chiches grillés",
+    url: "https://menu-vegetarien.com/soupe-choufleur-pois-chiches/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2017/10/veloute-choufleur-poischiches.jpg",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    400 g chou-fleur
+    200 g pois chiches cuits
+    300 g pomme de terre
+    3 gousse d'ail, (entières)
+    45 ml huile d’olive
+    1 càc paprika
+    1 càc cumin
+    1 l bouillon de légumes
+    `,
+    preparation: `
+    Couper les fleurettes du chou-fleur et les laver. Préchauffez votre four à 200°C.
+    Mélanger le chou-fleur, les pois chiches et les gousses d'ail dans un saladier. Ajouter de l'huile d'olive, le cumin, le paprika et saler. Les déposer sur la plaque du four recouverte de papier cuisson et cuir pendant 30 minutes, en remuant une fois à mi-cuisson. Retirer du four et mettre de côté. Prélever un peu du mélange pour la décoration au moment de servir.
+    Pendant ce temps, faire chauffer le reste d'huile d'olive dans une grande casserole à feu moyen. Ajouter les pommes de terre coupées en cubes, saler, poivrer. Cuire environ 2 minutes en remuant fréquemment. Ajouter le bouillon de légumes et porter le mélange à ébullition. Laisser mijoter, à découvert, jusqu'à ce que les pommes de terre soient très tendres, environ 15-20 minutes. Retirer le pot de la chaleur.
+    Ajouter le mélange chou-fleur/pois chiches aux pommes de terre, puis réduire en purée. Assaisonner puis servir en parsemant un peu du mélange mis de côté.
+    `
+  },
+  {
+    name: "Velouté de champignons",
+    url: "https://menu-vegetarien.com/veloute-de-champignons/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2023/11/recette-vegetarienne-veloute-champignons.jpg",
+    tag: {
+      cereal: [],
+      diet: ["végan"],
+      difficulty: ["facile", "rapide"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    500 g champignons de Paris
+    1/2 oignon
+    1 gousse d'ail, émincée
+    3 càs farine
+    1 l bouillon de légumes
+    10 cl soja cuisine
+    30 ml huile d’olive
+    `,
+    preparation: `
+    Nettoyer et couper le pied des champignons
+    Faire revenir l'oignon dans une poêle chaude avec de l'huile d'olive.
+    Ajouter les champignons et l'ail. Quand les champignons sont dorés, ajouter la farine et un peu de bouillon et mélanger.
+    Ajouter le reste du bouillon et cuire 20 minutes.
+    Mixer jusqu'à obtenir une consistance lisse et crémeuse.
+    Ajouter le soja cuisine, assaisonner, réchauffer un peu si besoin et servir immédiatement.
+    `
+  },
+  {
+    name: "Soupe de lentilles blondes",
+    url: "https://menu-vegetarien.com/soupe-de-lentilles-blondes/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2022/11/recette-vegan-soupe-lentilles-blondes.jpg",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    30 ml huile d’olive
+    1 oignon
+    1 gousse d'ail
+    150 g carotte, coupées en rondelles
+    250 g lentilles blondes, rincées
+    1 l bouillon de légumes
+    30 g noisettes, concassées
+    2 càc paprika
+    10 cl lait de coco
+    2 càs graines de sésame noir
+    `,
+    preparation: `
+    Dans une cocotte, faire revenir l’oignon, l’ail et la carotte dans un peu d’huile d’olive pendant 5 minutes.
+    Ajouter les lentilles, le bouillon de légumes, le paprika, et cuire pendant 30 minutes.
+    Ajouter le lait de coco et laisser cuire encore 5 minutes. Mixer et ajouter un peu d’eau jusqu’à obtenir la consistance désirée. Assaisonner. Parsemer de quelques noisettes concassées, de graines de sésame et servir chaud.
+    `
+  },
+  {
+    name: "Soupe d’hiver aux pois cassés et légumes",
+    url: "https://menu-vegetarien.com/soupe-dhiver-pois-casses-legumes/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2023/11/recette-vegetarienne-soupe-pois-casses.jpg",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végétarien"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    30 ml huile d’olive
+    1 oignon, émincé
+    1 gousse d'ail, écrasée
+    250 g pois cassés
+    400 g tomates concassées
+    300 g carotte, coupées en rondelles
+    1 branche de céleri, coupée en rondelles
+    200 g chou kale, émincé
+    1 càc cumin
+    2 feuille de laurier
+    1,5 l bouillon de légumes
+    40 g parmesan en copeaux
+    `,
+    preparation: `
+    Faire chauffer l’huile d’olive dans une grande casserole. Ajouter l’oignon, les carottes et le céleri et cuire, en mélangeant, pendant 4 minutes. Ajouter l'ail, le cumin, les feuilles de laurier, cuire pendant 30 secondes puis verser les tomates concassées égouttées. Cuire encore quelques minutes.
+    Ajouter le bouillon de légumes chaud et les pois cassés. Porter à ébullition et cuire 40 minutes.
+    Ajouter le chou kale et cuire encore 5 minutes. Servir avec les copeaux de parmesan.
+    `
+  },
+  {
+    name: "Crémeux de chou-fleur au curcuma et noix de cajou",
+    url: "https://menu-vegetarien.com/cremeux-chou-fleur-curcuma-noix-cajou/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2017/12/Cremeux-chou-fleur-curcuma-cajou.jpg",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    300 g chou-fleur
+    300 g pomme de terre
+    1 l bouillon de légumes
+    1 càc curcuma
+    30 ml huile d’olive
+    40 g noix de cajou
+    `,
+    preparation: `
+    Laver et découper les têtes de chou-fleur, éplucher et découper les pommes de terre et plonger le tout dans le bouillon.
+    Ajouter le curcuma et l'huile d'olive et laisser cuire à petits bouillons pendant 20/30 minutes. La pinte d'un couteau doit pouvoir s'enfoncer facilement dans les légumes.
+    Mixer le tout et ajuster si nécessaire l'assaisonnement. Au moment de servir, poêler pendant 2 minutes des noix de cajou et les concasser. Puis les saupoudrer généreusement sur les assiettes de velouté.
+    `
+  },
+  {
+    name: "Dahl de lentilles corail, millet et courge",
+    url: "https://menu-vegetarien.com/dahl-lentilles-corail-millet-courge/",
+    image:
+      "https://menu-vegetarien.com/wp-content/uploads/2020/12/recette-vegetarienne-dahl-lentilles-corail-millet.jpg",
+    tag: {
+      cereal: ["légumineuse", "millet"],
+      diet: ["végan"],
+      difficulty: ["intermediaire"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+    15 ml huile d’olive
+    1 oignon, émincé
+    2 gousse d'ail, émincée
+    1 càs curry
+    200 g lentilles corail
+    200 g millet
+    300 g courge musquée, coupée en morceaux de 2cm
+    2 l bouillon de légumes
+    5 cl lait de coco
+    100 g maïs
+    2 càs coriandre fraîche
+
+Yaourt aux herbes
+
+    2 yaourt à la grecque
+    2 càs coriandre fraîche, hachée
+    2 càs Menthe fraîche, hachée
+    `,
+    preparation: `
+    Faire chauffer l'huile dans une grande casserole. Ajouter l'oignon, cuire jusqu'à ce qu'il devienne translucide, ajouter l'ail, cuire 2 minutes. Ajouter le curry, mélanger. Ajouter les lentilles, le millet, la courge, le bouillon de légumes. Porter à ébullition, cuire 30 minutes
+    Pendant ce temps, mélanger tous les ingrédients du yaourt avec du sel, réserver au frais.
+    5 minutes avant la fin de la cuisson du dahl, ajouter le lait de coco et le maïs. Mélanger.
+    Servir le dahl avec le yaourt.
+    `
+  },
+  {
+    name: "Tofu frit et riz thai",
+    url: "https://menu-vegetarien.com/tofu-frit-riz-thai/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2018/01/tofu-frit-poivre-riz-thai.jpg",
+    tag: {
+      cereal: ["riz"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["printemps", "été"],
+      service: ["plat"]
+    },
+    ingredient: `
+    90 ml huile d’olive
+    400 g tofu ferme, coupé en morceaux de 2cm
+    20 g fécule de maïs
+    5 échalote, émincées
+    3 gousse d'ail, écrasées
+    3 càs gingembre
+    3 càs sauce soja sucrée
+    60 ml sauce soja
+    2 càs sucre
+    5 càs poivre noir en grains, concassé
+    2 oignon vert, coupées en tronçons de 4cm
+    `,
+    preparation: `
+    Faire chauffer la moitié de l'huile d'olive dans une poêle ou un wok. Mélanger les cubes de tofu dans la fécule de maïs puis les faire frire, à feu moyen, jusqu'à ce qu'ils soient dorés. Déposer sur du papier absorbant.
+    Nettoyer la poêle, faire chauffer le reste d'huile d'olive, ajouter les échalotes, l'ail et le gingembre. Faire revenir à feu doux à moyen pendant environ 15 minutes, en remuant de temps en temps. Ajouter la sauces soja, le sucre et mélanger, puis ajouter le poivre noir concassé.
+    Pendant ce temps, cuire le riz dans une casserole, le temps indiqué sur le paquet ou 10 minutes.
+    Mettre le tofu dans la poêle pour le réchauffer dans la sauce pendant environ une minute. Enfin, incorporer les oignons verts. Servir chaud, avec le riz.
+    `
+  },
+  {
+    name: "Marmite crémeuse de Noël aux champignons et pommes de terre",
+    url: "https://menu-vegetarien.com/marmite-cremeuse-de-noel-aux-champignons-pommes-de-terre/",
+    image: "https://menu-vegetarien.com/wp-content/uploads/2023/11/recette-vegan-marmite-noel.jpg",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+    200 g tofu ferme
+    15 ml huile d’olive
+    3 gousse d'ail, hachées
+    10 oignon grelot, épluchés
+    1 càs romarin, frais finement haché
+    350 g champignons de Paris
+    10 cl vin rouge
+    20 cl crème liquide, ou soja cuisine
+    10 cl crème fraîche
+    30 ml sauce soja
+    5 càs ciboulette
+
+Pour les pommes de terre
+
+    400 g pomme de terre
+    30 ml huile d’olive
+    `,
+    preparation: `
+    Préchauffer le four à 225°C. Presser le tofu. Pour cela, l'enrouler dans une serviette ou dans du papier absorbant et déposer un objet lourd dessus. Le laisser 10 minutes ainsi.
+    Laver les pommes de terre, les mettre dans un saladier et arroser d'huile d'olive. Saler et bien mélanger pour les imprégner. Les déposer sur une plaque à pâtisserie recouverte de papier cuisson et faire griller au four pendant environ 30 minutes ou jusqu'à ce que les pommes de terre soient tendres et aient une belle croûte croustillante.
+    Pendant ce temps, mettre de l'huile d'olive à chauffer dans une cocotte. Faire venir l'ail et les oignons pendant environ 10 minutes à feu moyen en mélangeant sans arrêt. Ajouter le romarin haché, les champignons, les dés de tofu, et assaisonner. Faire frire environ 5 minutes puis ajouter le vin rouge et laisser cuire encore 5 minutes. Ajouter enfin la crème liquide, la crème fraîche, la sauce soja et laisser mijoter pendant environ 5 minutes.
+    Ajouter les pommes de terre dans la cocotte. Mélanger. Saupoudrer de romarin frais, de ciboulette et servir.
+    `
+  },
+  {
+    name: "Ragoût à la Cacahuète, Pois Chiches et Epinards",
+    url: "https://freethepickle.fr/2020/03/30/ragout-a-la-cacahuete-pois-chiches-et-epinards/",
+    image: "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2020/01/IMG_0243-scaled.jpg?w=1920&ssl=1",
+    tag: {
+      cereal: ["riz", "légumineuse"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+    1 oignon
+    4 gousses d'ail
+    1 c-à-s de gingembre frais
+    2 c-à-s d'huile végétale
+    1 c-à-c de cumin
+    1 c-à-c de garam massala
+    1/2 c-à-c de curcuma
+    1/2 c-à-c de paprika fumé
+    1/2 c-à-c de fenugrec en poudre
+    1 c-à-c de chili en poudre (optionnel)
+    1 conserve de tomates (400g)
+    1 petite conserve de concentré de tomate (70g)
+    2 c-à-s de beurre de cacahuète
+    150 ml d'eau
+    400 g de pois chiche cuits
+    200 g d'épinards surgelés
+    sel, poivre
+    `,
+    preparation: `
+    Épluchez puis mixez l'oignon, l'ail et le gingembre pour obtenir une sorte de pâte.
+    Faire chauffer l'huile à feu moyen dans une poêle à bords hauts, et y faire revenir l'oignon, ail et gingembre quelques minutes, jusqu'à ce que le mélange soit bien parfumé.
+    Ajouter les épices, mélanger et laisser cuire encore quelques minutes.
+    Verser la tomate, le concentré, le beurre de cacahuète et l'eau. Bien mélanger pour que le beurre de cacahuète se dilue bien. Monter le feu. Le mélange doit commencer à bouillonner.
+    Ajouter les pois chiches et les épinards. Laisser cuire à feu doux encore une vingtaine de minutes.
+    Gouter et ajuster l'assaisonnement.
+    Servir avec du riz, ou tel quel !
+    `
+  },
+  {
+    name: "Tagliatelles à la Crème de Courge Butternut",
+    url: "https://freethepickle.fr/2020/11/12/tagliatelles-a-la-creme-de-courge-butternut-vegan-et-sans-gluten/",
+    image: "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2020/11/sauce-butternut-3.jpg?w=1000&ssl=1",
+    tag: {
+      cereal: ["blé"],
+      diet: ["végan"],
+      difficulty: ["facile", "rapide"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+    1 c-à-s d’huile d’olive
+    3 gousses d’ail pressés
+    2 branches de thym
+    450 g de courge butternut coupée en morceaux de 2cm env
+    4-5 c-à-s d’eau à ajuster
+    1 pincée de noix de muscade
+    2 c-à-s de crème de soja
+    450 g de tagliatelles ou les pâtes de votre choix
+    `,
+    preparation: `
+    Commencez par faire chauffer une poêle à feu moyen avec l’huile. Ajoutez-y l’ail pressé et faites revenir 1 ou 2 minutes. Ajoutez le thym, puis la courge butternut coupées en morceaux (plus les morceaux sont gros, et plus la cuisson sera longue). Ajoutez un fond d’eau dans la poêle, et couvrez. Laissez cuire 20-25min en remuant de temps en temps.
+    Faites cuire vos pâtes en suivant les instructions du paquet.
+    Vous pouvez garder un peu d’eau de cuisson et l’ajouter dans la sauce !
+    Une fois que les morceaux de courge sont bien tendres et commencent à se défaire, transférez la préparation dans un mixeur. Ajoutez la muscade et la crème et mixez pour obtenir une belle consistance lisse et crémeuse.
+    Servez avec un peu de parmesan (option végétale ici) ou simplement avec un peu de levure de bière !
+    `
+  },
+  {
+    name: "Brochettes de Champignons",
+    url: "https://freethepickle.fr/2021/08/02/brochettes-de-champignons-a-la-sauce-soja/",
+    image: "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2021/08/Yakitoris-Vege-4-of-6.jpg?w=800&ssl=1",
+    tag: {
+      cereal: ["riz"],
+      diet: ["végan"],
+      difficulty: ["facile", "rapide"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+    18 petits champignons de paris
+    8 càs de sauce soja sucrée
+    2 càs d’huile de sésame
+    1 càs de vinaigre de riz
+    2 cébettes ou un oignon nouveau à défaut
+    6 pics à brochettes
+    graines de sésame
+    `,
+    preparation: `
+    Nettoyer les champignons et enlever les pieds.
+Dans un plat, mélanger la sauce soja, l’huile de sésame et le vinaigre de riz.
+Verser les champignons dans le plat et mélanger pour qu’ils soient tous recouverts de sauce.
+Laisser mariner quelques minutes.
+Pendant ce temps, couper les cébettes en tronçons d’environ 4cm. Les ajouter à la marinade.
+Faire chauffer une poêle à feu moyen.
+Verser tout le contenu du plat dans la poêle et faire revenir en remuant régulièrement pendant 15min.
+Faire les brochettes en alternant un champignon avec un tronçon de cébette. Saupoudrez de graines de sésame.
+    `
+  },
+  {
+    name: "Soupe de Betteraves et petit épeautre",
+    url: "https://freethepickle.fr/2025/02/15/soupe-de-betteraves-et-petit-epeautre-facon-borscht",
+    image:
+      "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2025/02/soupe-de-betteraves-et-petit-epeautre-facon-borscht.jpg?w=800&ssl=1",
+    tag: {
+      cereal: ["épeautre"],
+      diet: ["végan"],
+      difficulty: ["intermediaire"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    3 échalotes
+    1 branche de céleri
+    2 feuilles de laurier
+    3 càs d’huile d’olive
+    3 gousses d’ail
+    500 g de betteraves crues
+    70 g de concentré de tomates
+    2 càc de bouillon en poudre ou 1 cube de bouillon de légumes
+    100 g de petit épeautre
+    1,5 L d’eau à ajuster
+    200 g de haricots blancs cuits ou en conserve
+    1 bouquet d’aneth
+    Le jus d’1/2 citron jaune
+    Yaourt grec ou crème fraîche
+    `,
+    preparation: `
+    Émincez les échalotes et le céleri branche. Faites-les revenir 5min dans un faitout avec l’huile d’olive et les feuilles de laurier.
+    Hachez grossièrement l’ail. Coupez les betteraves en petits dés. Ajoutez-les dans le faitout avec l’ail et faites revenir encore 5min.
+    Incorporez le concentré de tomates, le bouillon, le petit épeautre et l’eau. Couvrez et laissez mijoter à feu doux jusqu’à ce que l’épeautre soit tendre, environ 30 min.
+    Ajoutez les haricots blancs, l’aneth haché et le jus de citron. Mélangez bien et laissez cuire encore 5min.
+    Servez chaud avec un filet d’huile d’olive, une généreuse cuillère de yaourt grec ou de crème fraîche sur le dessus.
+
+    Petite astuce pour sublimer votre plat : ajoutez un œuf coupé en deux sur le dessus !
+    `
+  },
+  {
+    name: "Soupe de courge, lentilles corail & quinoa",
+    url: "https://freethepickle.fr/2025/02/07/soupe-de-courge-lentilles-corail-quinoa-au-dukkah/",
+    image:
+      "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2025/03/soupe-de-courge-lentilles-corail-et-quinoa-au-dukkah-free-the-pickle.jpg?w=800&ssl=1",
+    tag: {
+      cereal: ["légumineuse"],
+      diet: ["végan"],
+      difficulty: ["intermediaire"],
+      season: ["automne", "hiver"],
+      service: ["plat", "soupe"]
+    },
+    ingredient: `
+    1 oignon
+    5 gousses d’ail
+    1/2 càc de graines de cumin
+    1/2 càc de graines de fenugrec
+    1 càc de cumin en poudre
+    1 càc de paprika fumé
+    500 g de courge butternut
+    4 càs d’huile d’olive
+    200 g de lentilles corail
+    1 bouillon cube
+    2 l d’eau
+    100 g de quinoa
+    Le jus d’un citron
+    du dukkah
+    Sel
+    `,
+    preparation: `
+Émincez finement l’oignon et hachez grossièrement l’ail.
+Coupez la courge butternut en petits dés.
+Dans une grande casserole, faites chauffer l’huile d’olive, puis ajoutez l’oignon et l’ail. Faites revenir à feu moyen pendant 5 minutes avec les épices.
+Ajoutez les dés de butternut et faites revenir encore 5 minutes, en remuant régulièrement. Rincez les lentilles corail, puis ajoutez-les à la casserole avec l’eau et le bouillon cube. Mélangez bien, couvrez, et laissez mijoter à petits bouillons pendant environ 25 min, jusqu’à ce que les lentilles corail et la courge commencent à se défaire.
+Ajustez la quantité d’eau si nécessaire, puis utilisez un mixeur plongeant pour mixer légèrement la soupe par à-coups. Le but est d’épaissir un peu le bouillon tout en gardant une texture avec des morceaux.
+Rincez le quinoa pour retirer la saponine, puis ajoutez-le à la soupe. Laissez cuire 8 à 10 min, jusqu’à ce que le quinoa soit tout juste cuit.
+Ajoutez le jus d’un citron, salez à votre goût.
+Servez la soupe bien chaude avec un généreux filet d’huile d’olive et saupoudrez chaque assiette de 2 càc de dukkah pour un supplément de saveurs et de croquant.
+    `
+  },
+  {
+    name: "Nouilles express sauce miso cacahuète",
+    url: "https://freethepickle.fr/2025/01/25/nouilles-express-sauce-miso-cacahuete/",
+    image:
+      "https://i0.wp.com/freethepickle.fr/wp-content/uploads/2025/01/Nouilles-express-cacahuete-miso-2-of-4.jpg?w=800&ssl=1",
+    tag: {
+      cereal: ["blé"],
+      diet: ["végan"],
+      difficulty: ["facile"],
+      season: ["automne", "hiver"],
+      service: ["plat"]
+    },
+    ingredient: `
+    200 g de nouilles ici des udons
+    2 càc de pâte de miso blanc
+    2 càc de beurre de cacahuète
+    2 càc d’huile de sésame
+    2 càc de sirop d’érable
+    2 càc de vinaigre de riz
+    2 càs de sauce soja
+    1 gousse d’ail pressée
+    2 oignon vert émincé
+    flocons de piment
+    Quelques branches de coriandre hachées
+    `,
+    preparation: `
+    Faites cuire les nouilles en suivant les instructions du paquet.
+    Mélangez tous les autres ingrédients, puis répartissez dans 2 assiettes creuses.
+    Egouttez les nouilles et melangez-les dans la sauce. Dégustez !
+    Dégustez !
+    On peut ajouter des carottes, du chou ou du concombre en juliennes ou d’autres légumes en fonction de la saison.
+    `
   }
 ];
 
