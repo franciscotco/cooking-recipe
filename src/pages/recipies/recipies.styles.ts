@@ -4,7 +4,7 @@ export const Recipies = styled.section`
   display: flex;
 
   flex-direction: column;
-  @media (min-width: 1250px) {
+  @media (${({ theme }): string => theme.media.tablet}) {
     flex-direction: row;
   }
 `;

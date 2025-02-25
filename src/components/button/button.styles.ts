@@ -4,15 +4,16 @@ export const Button = styled.button`
   background: none;
   border: none;
   outline: none;
-  padding: 0;
+  padding: 6px 12px;
 
   cursor: pointer;
 
-  border: 1px solid black;
-  width: 120px;
-  height: 24px;
+  border: 1px solid ${({ theme }): string => theme.color.black};
 
+  background-color: ${({ theme }): string => theme.color.white};
+  color: ${({ theme }): string => theme.color.black};
   &:hover {
-    background-color: ${({ theme }): string => theme.color.grayLighter};
+    background-color: ${({ theme }): string => theme.color.black};
+    color: ${({ theme }): string => theme.color.white};
   }
 `;

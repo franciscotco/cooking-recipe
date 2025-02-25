@@ -38,11 +38,11 @@ export const THEME = {
       italic: "italic"
     },
     size: {
-      small: "1.2rem",
-      regular: "1.4rem",
-      large: "1.6rem",
-      section: "2rem",
-      header: "2.4rem"
+      small: "12px",
+      regular: "14px",
+      large: "16px",
+      section: "20px",
+      header: "24px"
     }
   },
   media: {
@@ -56,12 +56,12 @@ export const THEME = {
     desktopXXLarge: `min-width: ${MEDIA_DESKTOP_XXLARGE}px`
   },
   spacing: {
-    xs: ".4rem",
-    s: ".8rem",
-    sm: "1.2rem",
-    m: "1.6rem",
-    l: "2.4rem",
-    xl: "3.2rem"
+    xs: "4px",
+    s: "8px",
+    sm: "12px",
+    m: "16px",
+    l: "24px",
+    xl: "32px"
   },
   zIndex: {
     hidden: -1,

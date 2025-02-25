@@ -6,20 +6,17 @@ const GlobalStyle = createGlobalStyle`
     width: 100%;
   }
 
-  html {
-    font-size: calc(12px / 1.4);
-    @media (${({ theme }): string => theme.media.tabletLarge}) {
-      font-size: calc(14px / 1.4);
-    }
-    @media (${({ theme }): string => theme.media.desktopXXLarge}) {
-      font-size: calc(14px / 1.4);
-    }
+  * {
+    box-sizing: border-box;
   }
 
-	body {
-		font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    font-size: ${({ theme }): string => theme.font.size.regular};
+  html {
+    font-size: 16px;
+  }
 
+	body, :root {
+		font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 16px;
     margin: 0;
 	}
 `;
