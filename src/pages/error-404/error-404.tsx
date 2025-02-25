@@ -1,4 +1,4 @@
-import React, { type ReactElement } from "react";
+import { memo, type ReactElement } from "react";
 
 import { Error404 as Root, Content } from "./error-404.styles";
 
@@ -8,4 +8,4 @@ const Error404 = (): ReactElement => (
   </Root>
 );
 
-export default Error404;
+export default memo(Error404);

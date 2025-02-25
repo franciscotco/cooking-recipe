@@ -1,4 +1,4 @@
-import { Recipe } from "../interfaces/recipies.interfaces";
+import { Recipe } from "@src/interfaces/recipies.interfaces";
 
 import { ONE_POT_LENTILLES_EPINARDS } from "./one-pot-lentilles-epinards";
 

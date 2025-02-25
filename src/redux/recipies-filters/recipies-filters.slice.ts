@@ -1,5 +1,6 @@
 import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
 
+import { RECIPIES } from "@src/constants/recipies/recipies";
 import {
   Cereal,
   CEREAL_TAG,
@@ -12,7 +13,6 @@ import {
   Service,
   SERVICE_TAG
 } from "@src/constants/recipies-tags";
-import { RECIPIES } from "@src/recipies/recipies";
 
 export type CerealFilter = Record<Cereal, boolean>;
 export type DietFilter = Record<Diet, boolean>;

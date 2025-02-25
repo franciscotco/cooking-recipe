@@ -1,4 +1,4 @@
-import React, { ChangeEvent, memo, useCallback, type ReactElement } from "react";
+import { ChangeEvent, memo, useCallback, type ReactElement } from "react";
 
 import Checkbox from "@src/components/controls/checkbox";
 import Fieldset from "@src/components/controls/fieldset";

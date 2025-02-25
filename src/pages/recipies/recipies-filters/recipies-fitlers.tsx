@@ -1,4 +1,4 @@
-import React, { memo, type ReactElement } from "react";
+import { memo, type ReactElement } from "react";
 
 import {
   CEREAL_TAG,

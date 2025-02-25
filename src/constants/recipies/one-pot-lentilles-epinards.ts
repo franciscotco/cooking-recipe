@@ -1,4 +1,4 @@
-import { Recipe } from "../interfaces/recipies.interfaces";
+import { Recipe } from "@src/interfaces/recipies.interfaces";
 
 export const ONE_POT_LENTILLES_EPINARDS = {
   name: "One pot lentilles et épinards",

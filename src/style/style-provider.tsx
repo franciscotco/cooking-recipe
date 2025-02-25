@@ -1,8 +1,8 @@
-import React, { type ReactElement, type PropsWithChildren } from "react";
+import { type ReactElement, type PropsWithChildren } from "react";
 
 import { ThemeProvider } from "styled-components";
 
-import GlobalStyle from "./GlobalStyle";
+import GlobalStyle from "./global-style";
 import { THEME } from "./style.theme";
 
 const StyleProvider = ({ children }: PropsWithChildren<unknown>): ReactElement => (

@@ -1,7 +1,6 @@
 import path from "path";
 /* eslint-disable camelcase */
 
-// import TerserPlugin from "terser-webpack-plugin";
 import { DefinePlugin } from "webpack";
 import { WebpackManifestPlugin } from "webpack-manifest-plugin";
 import { merge } from "webpack-merge";

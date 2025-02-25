@@ -1,4 +1,4 @@
-import React, { memo, type ReactElement } from "react";
+import { memo, type ReactElement } from "react";
 
 import Ul from "@src/components/ul";
 import { useAppSelector } from "@src/redux/redux.hooks";
