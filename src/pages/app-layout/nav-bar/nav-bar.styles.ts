@@ -2,13 +2,13 @@ import styled from "styled-components";
 
 export const Root = styled.div`
   width: 100%;
-  min-height: 8rem;
+  min-height: 6rem;
 `;
 
 export const Header = styled.header`
   position: fixed;
   width: 100%;
-  height: 8rem;
+  height: 6rem;
   box-sizing: border-box;
   z-index: 1;
 

@@ -32,10 +32,11 @@ const config: Configuration = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: "./public/index.html",
       chunks: ["app"],
       favicon: "./public/favicon.png",
-      inject: true
+      inject: true,
+      title: "Recette de cuisine",
+      template: "./public/index.html"
     })
   ]
 };

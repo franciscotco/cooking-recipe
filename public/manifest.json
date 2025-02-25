@@ -1,6 +1,6 @@
 {
-  "short_name": "Tickets",
-  "name": "Gestion des tickets de caisse",
+  "short_name": "Recette",
+  "name": "Recette de cuisine",
   "start_url": ".",
   "display": "standalone",
   "icons": [
