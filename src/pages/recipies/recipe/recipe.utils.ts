@@ -1,5 +1,5 @@
 export const formatIngredient = (ingredient: string): string[] => {
-  return ingredient.split("\n");
+  return ingredient.trim().replaceAll("\n\n", "\n").split("\n");
 };
 
 export const formatPreparation = (preparation: string): string[] => {

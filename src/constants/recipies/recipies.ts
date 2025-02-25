@@ -286,8 +286,33 @@ Ajouter le bouillon de légumes, les lentilles, cuire 20 minutes, jusqu'à ce qu
       season: ["automne", "hiver", "printemps", "été"],
       service: ["plat"]
     },
-    ingredient: ``,
-    preparation: ``
+    ingredient: `
+150 g de lentilles vertes (poids sec)
+2 petits oignons
+1 échalote
+2 gousses d’ail
+10 cl de coulis de tomates
+1 càs de cumin
+1 càs de ras el hanout
+1 càc de gingembre moulu
+1 càc de paprika fumé
+Persil frais
+Coriandre fraîche
+Huile d’olive
+    `,
+    preparation: `
+Faire cuire les lentilles selon les indications figurant sur le paquet, en veillant à les rincer avant cuisson.
+
+Mixer ou émincer finement l’ail, les oignons et l’échalote.
+
+Faire revenir l’ail, les oignons et l’échalote dans une poêle huilée, puis ajouter le coulis de tomates, les épices et les lentilles.
+
+Ajouter un verre d’eau et laisser la sauce s’épaissir quelques minutes à feu doux.
+
+Pour terminer, ajouter le persil et la coriandre hachés.
+
+Servir chaud avec de la semoule de couscous.
+    `
   },
   {
     name: "Soupe épicée aux légumes racines d’hiver",
